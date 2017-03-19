@@ -4,4 +4,4 @@ maintainer_email 'joseph.assiga@gmail.com'
 license          'All rights reserved'
 description      'Installs/Configures apache'
 long_description IO.read(File.join(File.dirname(__FILE__), 'README.md'))
-version          '1.2.1'
+version          '2.0.0'
